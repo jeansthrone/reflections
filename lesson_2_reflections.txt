@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+	It create a new .git file that is hidden and it shows me this: "Initialized empty Git repository in C:/Users/Jean Franco/version-control/reflections/.git/" i need to do it to make anew project.
+
+
