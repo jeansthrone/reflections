@@ -16,5 +16,9 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualize the branch structure?
 	
-	They help me to see a mpre organized way the branches. 
+	They help me to see a mpre organized way the branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	The profram combine the 2 commits to make 1 with the lines they share abd they new ones in there. You represented that way to meke us undertand better the procces. 
 
