@@ -22,3 +22,9 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	The profram combine the 2 commits to make 1 with the lines they share abd they new ones in there. You represented that way to meke us undertand better the procces. 
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	pros: it's faster than doing it manually, it let es know where are the differences and let us change it
+
+	cons: it can be alittle messy 
+
