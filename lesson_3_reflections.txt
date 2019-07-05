@@ -21,3 +21,8 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 	sending the changes by email. the sendig way will be faster but everything else wont.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	when i´m doing changes that i have to consult with other before it goes in the master or when i´m doing somethig experimental that i don´t want to show to nobody. 
+
