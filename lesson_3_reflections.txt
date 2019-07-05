@@ -14,4 +14,6 @@ Describe the differences between forks, clones, and branches. When would you use
 
 	Branches: used to create a new version of a repository without afecting the original.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
 
+	it alows us to know how much have we avanced from the remote version 
